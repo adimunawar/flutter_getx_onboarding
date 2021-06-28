@@ -1,4 +1,4 @@
-# flutter_onboarding
+# flutter_getx_Onboarding
 
 A new Flutter project.
 
